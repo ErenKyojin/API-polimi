@@ -1,0 +1,53 @@
+div.roman ol
+{
+	list-style-type: upper-roman;
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-list-line-1 .list-bullet:after
+{
+	 height: 5px;
+	 width: 5px;
+	 border-radius:50%;
+	 background-color: #ff6961;
+	 
+}
+
+li > div.list-bullet:after
+{
+	
+	height: 5px;
+	width: 5px;
+	border-radius:80%;
+	background-color:#ff6961;
+	padding: 0px;
+}
+
+ul ul div.list-bullet:after
+{
+	height: 6px;
+	width: 6px;
+	background-color: transparent;
+	border-color: teal;
+	border-style: solid;
+	border-radius: 50%;
+	border-width: 1px;
+
+}
+ul ul ul div.list-bullet:after
+{
+	height: 1px;
+	width: 6px;
+	border-radius: 0%;
+	background-color: #bfdb38;
+
+}
+
+ol ol
+{
+	list-style-type: lower-roman;
+}
+
+li strong{
+	color: #77DD77
+}
+

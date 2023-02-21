@@ -1,0 +1,39 @@
+h1, .markdown-rendered h1, .HyperMD-header-1
+{
+	color: #27e4b1;
+	text-decoration: underline;
+	padding-left: 4px;
+	
+}
+
+
+h2, .markdown-rendered h2, .HyperMD-header-2
+{
+	color: #EA8FEA;
+	text-decoration: underline;
+}
+
+h3, .markdown-rendered h3, .HyperMD-header-3
+{
+	color: #FFAACF;
+	text-decoration: underline;
+}
+
+h4 .markdown-rendered h4, .HyperMD-header-4
+{
+	color: #F6E6C2;
+	text-decoration: underline;
+}
+
+.inline-title
+{
+	color: #FD8A8A;
+	text-transform: uppercase;
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+	text-align: center;
+	border: 2px;
+}
+
+

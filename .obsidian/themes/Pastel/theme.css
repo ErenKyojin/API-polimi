@@ -1,0 +1,42 @@
+:root
+{
+
+}
+
+.theme-dark {
+	--background-primary: #1F1D36;
+	--background-primary-alt: #2B3A55;
+	--background-secondary-alt: #864879;
+	--background-secondary: #3F3351;
+	--icon-color: #FF10F0;
+	--tab-text-color-active: #a00a96;
+	--tab-text-color-focused-active-current: #FF10F0;
+
+}
+
+
+.theme-light {
+	--background-primary: #F5E8C7;
+	--background-primary-alt: #ECCCB2;
+	--background-secondary-alt: #AC7088;
+	--background-secondary: #DEB6AB;
+	--icon-color: #CB9734;
+	--tab-text-color-active: #CB9734;
+	--tab-text-color-focused-active-current: #CB9734;
+
+}
+
+
+.clickable-icon
+{
+
+	filter: drop-shadow(1px 1px 2px #FF10F0)
+
+}
+
+.workspace-tab-header-inner-title
+{
+
+	text-shadow: 2px 2px 4px #83087b;
+
+}
