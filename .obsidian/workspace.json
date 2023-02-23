@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sequenza di mosse.md",
+                "file": "Modelli operazionali/Automa a stati finiti.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sequenza di mosse.md",
+                "file": "Modelli operazionali/Automa a stati finiti.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sequenza di mosse.md",
+                "file": "Modelli operazionali/Automa a stati finiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sequenza di mosse.md",
+                "file": "Modelli operazionali/Automa a stati finiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sequenza di mosse.md"
+                "file": "Modelli operazionali/Automa a stati finiti.md"
               }
             }
           }
@@ -168,15 +168,15 @@
   },
   "active": "30366b5141ec18f2",
   "lastOpenFiles": [
+    "Modelli operazionali/Traduttore.md",
+    "Modelli operazionali/Automa a stati finiti.md",
     "Modelli operazionali/Modelli operazionali.md",
+    "sequenza di mosse.md",
     "Modelli descrittivi.md",
     "Linguaggio.md",
-    "sequenza di mosse.md",
-    "Modelli operazionali/Automa a stati finiti.md",
     "Modelli operazionali/funzione di transizione.md",
     "Modelli operazionali/Automa a pila.md",
     "Unione.md",
-    "Modelli operazionali/Traduttore.md",
     "push.md",
     "pop.md",
     "stringa.md",

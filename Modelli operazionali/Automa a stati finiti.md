@@ -1,4 +1,4 @@
-Sono macchine con un insieme finito di stati:
+Detti anche FSA, sono macchine con un insieme finito di stati:
 {Acceso, Spento}, {1,2,3,4,...,k}, {on,off}
 
 Che si possono cosí rappresentare:
@@ -50,6 +50,25 @@ Possiamo rappresentarlo cosí:
 >L = {un numero pari di 1 ed un numero qualsiasi di 0}
 
 definiamo una [[sequenza di mosse]] induttivamente tramite $\delta$ (funzione di transizione)
+
+Un tipo notevole di automi FSA, sono gli automi traduttori
+
+# Traduttori
+![[Traduttore|traduttori]]
+
+# Cicli
+
+>[!esempio]
+>```mermaid
+>graph LR
+>q0 ---> q1 ---> q2
+> q2 --> q6 --> q6
+> q6 --> q8
+> q3 --> q6
+> q1 --> q3 --> q4 --> q1
+> i --> q0
+>```
+
 
 Sono real time, lavorano solo sullo stato in cui sono e sullo stato in ingresso
 
