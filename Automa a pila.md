@@ -74,4 +74,7 @@ I linguaggi di programmazione reali sono tutti basati su automi a pila, memoria 
 	   - Se svuoto tutta la pila con $n$ b perdo memoria se ci sono altri b
 	   - Se svuoto solo a metà e non trovo piú b non posso sapere se sono a metà pila
 
-Quindi la classe dei linguaggi riconosciuti dagli automi a pila $LP$ non è [[Chiusura|chiusa]] rispetto all'intersezione
+Quindi la classe dei linguaggi riconosciuti dagli automi a pila $LP$ non è [[Chiusura|chiusa]] rispetto all'intersezione e rispetto all'unione
+
+>[!oss]
+>Questo non significa che non è mai possibile l'unione di linguaggi riconosciuti da automi a pila
