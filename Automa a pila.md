@@ -47,4 +47,18 @@ Con:
 
 
 ### Transizione tra configurazioni
-$c = <q, iy, \beta A>$
+$c = <q, i.y, \beta A>\ \vdash c'$
+
+- $q \in Q$
+- $i \in I$
+- $y \in I^*$
+- $\beta \in \Gamma^**$
+- $A \in \Gamma$
+
+#### Caso 1:
+$\delta(q,i,A) = (q',\alpha)$ (metti $q$ in $\alpha$ e vai a $q'$) ($\alpha \in \Gamma^*$)
+Quindi $c' = <q',y,\beta \alpha>$
+
+#### Caso 2:
+$\gamma(q,\varepsilon,A) = (q',\alpha)$
+Quindi $c',i.y,\beta \alpha($
