@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Automa a pila.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Automa a pila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Automa a pila.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md"
+                "file": "Automa a pila.md"
               }
             }
           }
@@ -192,15 +192,15 @@
   },
   "active": "376137c85d936f30",
   "lastOpenFiles": [
-    "Modelli operazionali/Modelli operazionali.md",
     "Modelli operazionali/Automa a stati finiti.md",
+    "Automa a pila.md",
+    "Modelli operazionali/Modelli operazionali.md",
     "Linguaggio.md",
     "Unione.md",
     "complemento.md",
     "funzione parziale.md",
     "funzione di transizione.md",
     "Intersezione.md",
-    "Chiusura.md",
-    "Untitled.md"
+    "Chiusura.md"
   ]
 }

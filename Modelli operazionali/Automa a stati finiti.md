@@ -1,9 +1,6 @@
 #TODO 
-# Memoria nei FSA
-Diamo la possiblità ai FSA di scrivere in nastri di scrittura e di leggere da nastri di lettura
 
 
-```
-```
+Sono real time, lavorano solo sullo stato in cui sono e sullo stato in ingresso
 
-Possiamo sfruttare la pila per contare le $A$
+# [[Automa a pila]]
