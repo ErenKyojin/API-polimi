@@ -60,3 +60,6 @@ Un tipo notevole di automi FSA, sono gli automi traduttori
 
 
 Visualizzamo meglio gli automi a stati finiti:
+
+![[FSA.canvas]]
+Possiamo aggiungere un ulteriore nastro detto pila, che funzionerà da memoria, questo tipo di automi si chiama [[Automa a pila]]

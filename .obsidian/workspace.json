@@ -11,14 +11,11 @@
             "id": "30366b5141ec18f2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/FSA.canvas",
-                "viewState": {
-                  "x": -120.7229892764118,
-                  "y": -11.733789683565192,
-                  "zoom": -1.177396606604258
-                }
+                "file": "Modelli operazionali/Automa a pila.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canvas/FSA.canvas",
+                "file": "Modelli operazionali/Automa a pila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canvas/FSA.canvas",
+                "file": "Modelli operazionali/Automa a pila.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas/FSA.canvas"
+                "file": "Modelli operazionali/Automa a pila.md"
               }
             }
           }
@@ -152,17 +149,18 @@
   },
   "active": "30366b5141ec18f2",
   "lastOpenFiles": [
-    "Canvas",
     "Modelli operazionali/Automa a stati finiti.md",
+    "Canvas/Automa a pila.canvas",
     "Canvas/FSA.canvas",
-    "Ciclo.md",
     "Modelli operazionali/Automa a pila.md",
-    "Modelli operazionali/Traduttore.md",
     "Modelli operazionali/Modelli operazionali.md",
+    "Modelli operazionali/Traduttore.md",
+    "Modelli operazionali/funzione di transizione.md",
+    "Canvas",
+    "Ciclo.md",
     "sequenza di mosse.md",
     "Modelli descrittivi.md",
     "Linguaggio.md",
-    "Modelli operazionali/funzione di transizione.md",
     "Unione.md",
     "push.md",
     "pop.md",

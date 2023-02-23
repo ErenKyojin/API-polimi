@@ -1,4 +1,7 @@
 
+![[Automa a pila.canvas]]
+
+
 Diamo la possiblità agli [[Automa a stati finiti|FAS]] di scrivere in nastri di scrittura e di leggere da nastri di lettura, quindi potranno fare mosse in funzione di:
 - Simbolo letto dal nastro di lettura
 - Simbolo letto dalla pila
