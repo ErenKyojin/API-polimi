@@ -8,12 +8,60 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac174a3420f6db4d",
+            "id": "376137c85d936f30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "mode": "source",
+                "source": false
+              }
             }
+          },
+          {
+            "id": "d61504e5247a510a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unione.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "75ef9677d19995be"
+          },
+          {
+            "id": "2dd134da6a25d5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "08a5d39e7d26618a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f9f41b38d12c131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unione.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "75ef9677d19995be"
           }
         ]
       }
@@ -81,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Modelli operazionali/Automa a stati finiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Modelli operazionali/Automa a stati finiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Modelli operazionali/Automa a stati finiti.md"
+              }
             }
           }
         ]
@@ -138,6 +190,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac174a3420f6db4d",
-  "lastOpenFiles": []
+  "active": "376137c85d936f30",
+  "lastOpenFiles": [
+    "Modelli operazionali/Modelli operazionali.md",
+    "Modelli operazionali/Automa a stati finiti.md",
+    "Linguaggio.md",
+    "Unione.md",
+    "complemento.md",
+    "funzione parziale.md",
+    "funzione di transizione.md",
+    "Intersezione.md",
+    "Chiusura.md",
+    "Untitled.md"
+  ]
 }
