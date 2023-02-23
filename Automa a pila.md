@@ -47,7 +47,8 @@ Con:
 
 
 ### Transizione tra configurazioni
-$c = <q, i.y, \beta A>\ \vdash c'$
+La mossa
+$c = <q, i.y, \beta A>\ \vdash c' <q',x',\beta \alpha>$
 
 - $q \in Q$
 - $i \in I$
@@ -61,4 +62,9 @@ Quindi $c' = <q',y,\beta \alpha>$
 
 #### Caso 2:
 $\gamma(q,\varepsilon,A) = (q',\alpha)$
-Quindi $c',i.y,\beta \alpha($
+Quindi $c'= <q',i.y,\beta \alpha>$ semplicemente non lavoriamo con l'ingresso
+
+>[!oss]
+>$$\forall q,A (\delta(q,\varepsilon,A)) \neq \perp \implies \forall i\ \delta(q,i,A) = \perp$$ altrimenti finiremmo in casi [[determinismo|non deterministici]]
+>
+>
