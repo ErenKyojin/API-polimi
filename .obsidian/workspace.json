@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pampling",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "65cdf27610eed32a",
@@ -167,7 +168,7 @@
       "auto-moc:AutoMOC": false
     }
   },
-  "active": "7b9da6b7dd97bbbb",
+  "active": "30366b5141ec18f2",
   "lastOpenFiles": [
     "Modelli operazionali/Automa a stati finiti.md",
     "Ciclo.md",

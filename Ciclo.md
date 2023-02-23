@@ -27,4 +27,14 @@ Da questo lemma derivano molte proprietà:
 
 1. $L = \varnothing$? $\exists x \in L \iff \exists y \in L :|y| < |Q|$
 Per arrivare allo stato finale sono richiesti $|Q|-1$
-2. $|L| = \infty?$ $\exists x \in L, |Q|\leq$
+2. $|L| = \infty?$ $\exists x \in L, |Q| \leq |x| < 2|Q|$
+   Anche in questo caso richiesti $|Q|-1$ passaggi ed inoltre il ciclo massimo è di lunghezza $|Q|$
+
+3. Conseguenza negativa:
+   Consideriamo il linguaggio $\left\{ a^nb^n \right\}$, composto da $n$ a seguite da $n$ b, è riconoscibile da un [[Automa a stati finiti]]? 
+   Ipotiziamo per assurdo che lo sia, possiamo quindi applicare il pumping lemma ad $x = a^mb^m, m>0$, considerato $x = ywz$ abbiamo tre casi:
+   1. $\underbrace{ aaa\dots aabb\dots }_{ y } \underbrace{ bb }_{ w }\underbrace{ b }_{ z } \implies aaa\dots aabb\dots \underbrace{ bbb...b }_{ (bb)^n }b$
+      ha ovviamente piú b che ha, quindi non appartiene al [[linguaggio]]
+    2. $\underbrace{ aa }_{ y }\underbrace{ a\dots }_{ w }\underbrace{  aabb\dots bbb }_{ z }$ analogo a sopra
+    3. $\underbrace{ aaa\dots  }_{ y }\underbrace{ aabb }_{ w }\underbrace{ \dots bbb }_{ z }$ in questo caso diventa $\underbrace{ aaa\dots a }_{ x }\underbrace{ aabb\dots aabb }_{ w^n }\underbrace{ b\dots bbb }_{ z }$
+
