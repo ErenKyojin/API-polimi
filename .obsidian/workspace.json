@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Ciclo.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Ciclo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pampling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Ciclo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Ciclo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md"
+                "file": "Ciclo.md"
               }
             }
           }
@@ -166,10 +167,11 @@
       "auto-moc:AutoMOC": false
     }
   },
-  "active": "30366b5141ec18f2",
+  "active": "7b9da6b7dd97bbbb",
   "lastOpenFiles": [
-    "Modelli operazionali/Traduttore.md",
     "Modelli operazionali/Automa a stati finiti.md",
+    "Ciclo.md",
+    "Modelli operazionali/Traduttore.md",
     "Modelli operazionali/Modelli operazionali.md",
     "sequenza di mosse.md",
     "Modelli descrittivi.md",
