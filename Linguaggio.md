@@ -13,7 +13,7 @@
 - **Lunghezza** di una stringa
   $|a|=1, |ab|=2$
 - **Stringa nulla**, $\varepsilon : |\varepsilon| = 0$
-- **A* ** è l'insieme di tute le stringhe, $\varepsilon$ inclusa, su A, e si dice monoide libero
+- **A\*** è l'insieme di tute le stringhe, $\varepsilon$ inclusa, su A, e si dice monoide libero
   - A = {0,1}, A* = {$\varepsilon$, 0, 1, 00, 01, 10, 11, ...}
 - **Operazioni su stringe**, 
 	- concatenazione x.y:
