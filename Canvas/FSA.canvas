@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"df176a0152c7dc92","x":-120,"y":-220,"width":280,"height":100,"type":"group","label":"Organo di controllo"},
+		{"id":"fd3b798d1340bb3e","x":-100,"y":-200,"width":60,"height":60,"type":"text","text":""},
+		{"type":"text","text":"","id":"403e037bd240406e","x":80,"y":-200,"width":60,"height":60}
+	],
+	"edges":[
+		{"id":"d0ff2150165edded","fromNode":"fd3b798d1340bb3e","fromSide":"right","toNode":"403e037bd240406e","toSide":"left"}
+	]
+}

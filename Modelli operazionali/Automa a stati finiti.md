@@ -56,9 +56,7 @@ Un tipo notevole di automi FSA, sono gli automi traduttori
 # Traduttori
 ![[Traduttore|traduttori]]
 
-# [[Ciclo]]
+![[Ciclo]]
 
 
-Sono real time, lavorano solo sullo stato in cui sono e sullo stato in ingresso
-
-[[Automa a pila]]
+Visualizzamo meglio gli automi a stati finiti:

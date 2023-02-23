@@ -11,33 +11,16 @@
             "id": "30366b5141ec18f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ciclo.md",
-                "mode": "source",
-                "source": false
+                "file": "Canvas/FSA.canvas",
+                "viewState": {
+                  "x": -120.7229892764118,
+                  "y": -11.733789683565192,
+                  "zoom": -1.177396606604258
+                }
               }
-            },
-            "group": "4ee371f43a1249f0"
-          }
-        ]
-      },
-      {
-        "id": "8c47ee4ff3bf7d69",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0fa2803367e4c734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciclo.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "4ee371f43a1249f0"
+            }
           }
         ]
       }
@@ -85,13 +68,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65cdf27610eed32a",
@@ -107,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciclo.md",
+                "file": "Canvas/FSA.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciclo.md",
+                "file": "Canvas/FSA.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciclo.md"
+                "file": "Canvas/FSA.canvas"
               }
             }
           }
@@ -165,20 +146,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "auto-moc:AutoMOC": false
+      "auto-moc:AutoMOC": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "30366b5141ec18f2",
   "lastOpenFiles": [
+    "Canvas",
     "Modelli operazionali/Automa a stati finiti.md",
+    "Canvas/FSA.canvas",
     "Ciclo.md",
+    "Modelli operazionali/Automa a pila.md",
     "Modelli operazionali/Traduttore.md",
     "Modelli operazionali/Modelli operazionali.md",
     "sequenza di mosse.md",
     "Modelli descrittivi.md",
     "Linguaggio.md",
     "Modelli operazionali/funzione di transizione.md",
-    "Modelli operazionali/Automa a pila.md",
     "Unione.md",
     "push.md",
     "pop.md",

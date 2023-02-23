@@ -38,3 +38,8 @@ Per arrivare allo stato finale sono richiesti $|Q|-1$
     2. $\underbrace{ aa }_{ y }\underbrace{ a\dots }_{ w }\underbrace{  aabb\dots bbb }_{ z }$ analogo a sopra
     3. $\underbrace{ aaa\dots  }_{ y }\underbrace{ aabb }_{ w }\underbrace{ \dots bbb }_{ z }$ in questo caso diventa $\underbrace{ aaa\dots a }_{ x }\underbrace{ aabb\dots aabb }_{ w^n }\underbrace{ b\dots bbb }_{ z }$
 
+>[!oss]
+>È comunque possibile creare FSA in grado di contare questi alfabeti, ma bisogna sempre aggiungere uno stato ad ogni incremento dell'abilità di contare, ed essendo i FSA per definizione a stati finiti, non è possibile generalizzare il caso
+
+Per ovviare questo problema si introducono gli [[Automa a pila|automi a pila]]
+
