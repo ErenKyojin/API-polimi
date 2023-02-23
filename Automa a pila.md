@@ -27,5 +27,24 @@ Possiamo sfruttare la pila per leggere le stringhe di tipo $a^nb^n$,
 >$Q, i,q_{0}$ ed $F[O]$ come per gli [[Automa a stati finiti|FSA]]
 >$\Gamma$ alfabeto di pila
 >$Z_{0}$ simbolo iniziale di pila
->$\delta: Q \times (I \cup \left\{ \varepsilon \right\})$
- 
+>$\delta: Q \times (I \cup \left\{ \varepsilon \right\})\times \Gamma \to Q \times \Gamma^*$, osserviamo che $\delta$ è parziale
+>$\eta: Q \times (I \cup  \left\{ \varepsilon \right\}) \times \Gamma \to O^*$, osserviamo che $\eta$ è definita dove $\delta$ è definita.
+>
+> [[push]] -> $<p,\alpha> =\delta(q,I,A)$
+> [[pop]] -> $w = \eta(q,I,A)$
+>
+>```mermaid
+>graph LR
+>	A(q) --->|i,A/alpha,w| B((p))
+>```
+
+## Configurazione
+$$c = <q,x,\gamma>$$
+Con:
+- $q$ stato 
+- $x$ stringa ancora da leggere sul nastro di ingresso
+- $\gamma$ il contenuto della pila
+
+
+### Transizione tra configurazioni
+$c = <q, iy, \beta A>$
