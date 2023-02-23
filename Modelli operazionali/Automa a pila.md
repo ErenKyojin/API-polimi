@@ -5,7 +5,7 @@ Diamo la possiblità agli [[Automa a stati finiti|FAS]] di scrivere in nastri di
 	- Cambia stato
 	- Sposta di una posizione la testina di lettura
 	- Sostituisce al simbolo A una stringa $\alpha$
-	- Se [[traduttore]] scrive una stringa nel nastro di uscita
+	- Se [[Traduttore]] scrive una stringa nel nastro di uscita
 
 Non sono necessariamente real time, puó decidere di sospendere le operazioni per lavorare sulla pila.
 
