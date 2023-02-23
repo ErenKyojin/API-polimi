@@ -40,3 +40,22 @@ Possiamo sfruttare la pila per leggere le stringhe di tipo $a^nb^n$,
 
 
 
+![[Configurazione]]
+
+$$
+\begin{align}
+x &\in L \\
+&\leftrightarrow  \\
+c_{0} = <q_{0},x,Z_{0},[\varepsilon]> \vdash^* c_{F} &= <q,\varepsilon,\gamma,[z]>, q \in F
+\end{align}
+$$
+
+
+
+
+
+I linguaggi di programmazione reali sono tutti basati su automi a pila, memoria a pila LIFO adatta ad analizzare strutture sintattiche nestate
+
+
+# Proprietà degli automi a pila
+$a^nb^n$ riconoscibile da un automa a pila, tuttavia $a^nb^nc^n$ non lo è, infatti contiamo prima le $a$, poi contiamo le $b$ eliminando il contenuto della pila tramite [[pop]], a questo punto non abbiamo piú memoria di $n$ per contare $c$. Invece programmando è est

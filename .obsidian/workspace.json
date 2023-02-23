@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configurazione.md",
+                "file": "Automa a pila.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configurazione.md",
+                "file": "Automa a pila.md",
                 "mode": "preview",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configurazione.md",
+                "file": "Automa a pila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configurazione.md",
+                "file": "Automa a pila.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configurazione.md"
+                "file": "Automa a pila.md"
               }
             }
           }
@@ -204,8 +204,8 @@
   },
   "active": "376137c85d936f30",
   "lastOpenFiles": [
-    "Chiusura.md",
     "Configurazione.md",
+    "Chiusura.md",
     "Automa a pila.md",
     "funzione parziale.md",
     "determinismo.md",
