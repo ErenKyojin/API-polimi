@@ -3,6 +3,7 @@
   "enabledCssSnippets": [
     "lists",
     "test",
-    "titles"
+    "titles",
+    "MCL Multi Column"
   ]
 }

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Modelli operazionali/Traduttore.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Modelli operazionali/Traduttore.md",
                 "mode": "preview",
                 "source": false
               }
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65cdf27610eed32a",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Modelli operazionali/Traduttore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md",
+                "file": "Modelli operazionali/Traduttore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelli operazionali/Automa a stati finiti.md"
+                "file": "Modelli operazionali/Traduttore.md"
               }
             }
           }
@@ -218,6 +217,8 @@
   },
   "active": "30366b5141ec18f2",
   "lastOpenFiles": [
+    "Modelli operazionali/Automa a stati finiti.md",
+    "Linguaggio.md",
     "Modelli operazionali/Automa a pila.md",
     "push.md",
     "pop.md",
@@ -230,8 +231,6 @@
     "Chiusura.md",
     "funzione parziale.md",
     "determinismo.md",
-    "Linguaggio.md",
-    "Modelli operazionali/Automa a stati finiti.md",
     "Modelli operazionali/Modelli operazionali.md",
     "Unione.md",
     "complemento.md"
