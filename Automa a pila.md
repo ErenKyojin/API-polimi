@@ -15,3 +15,17 @@ Non sono necessariamente real time, puó decidere di sospendere le operazioni pe
 ```
 
 Possiamo sfruttare la pila per leggere le stringhe di tipo $a^nb^n$, 
+
+
+# Automa traduttore a pila
+![[Pasted image 20230223095250.png]]
+
+
+>[!def]
+>Automa traduttore a pila: $<Q,I,\Gamma, \delta, q_{0},Z_{0},F[, O, \eta]>$
+>
+>$Q, i,q_{0}$ ed $F[O]$ come per gli [[Automa a stati finiti|FSA]]
+>$\Gamma$ alfabeto di pila
+>$Z_{0}$ simbolo iniziale di pila
+>$\delta: Q \times (I \cup \left\{ \varepsilon \right\})$
+ 

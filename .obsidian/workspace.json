@@ -17,7 +17,8 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "f58d1671f2250017"
           },
           {
             "id": "d61504e5247a510a",
@@ -29,8 +30,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "75ef9677d19995be"
+            }
           },
           {
             "id": "2dd134da6a25d5c4",
@@ -47,21 +47,21 @@
         ]
       },
       {
-        "id": "08a5d39e7d26618a",
+        "id": "46988ed3f19bf441",
         "type": "tabs",
         "children": [
           {
-            "id": "6f9f41b38d12c131",
+            "id": "1905a6f7695f1272",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unione.md",
+                "file": "Automa a pila.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "75ef9677d19995be"
+            "group": "f58d1671f2250017"
           }
         ]
       }
