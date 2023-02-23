@@ -34,6 +34,24 @@ Quindi un automa a stato finito è costituito da:
 - un insieme finito ([[Linguaggio|alfabeto]]) di ingressi 
 - una [[funzione di transizione]] (parziale) $\gamma:Q \times I \to Q$
 
+>[!esempio]
+Possiamo rappresentarlo cosí:
+>```mermaid
+>graph LR
+>	A --->|1| B
+>	B --->|1| A((A))
+>	A --->|0| A
+>	B --->|0| B
+>	i -..-> A
+>```
+>Abbiamo due stati che si scambiano per ogni 1 in ingresso e rimangono su se stessi se l'ingresso vale 0.
+>L'ingresso i è in $A$ e termina su $A$ (indicato con il nodo circolare).
+>In questo caso il linguaggio accettato è 
+>L = {un numero pari di 1 ed un numero qualsiasi di 0}
+
+
+
+
 Sono real time, lavorano solo sullo stato in cui sono e sullo stato in ingresso
 
 [[Automa a pila]]

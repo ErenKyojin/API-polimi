@@ -1,1 +1,1 @@
-$\delta$
+$\delta : Q \times I \$ consiste in una mossa

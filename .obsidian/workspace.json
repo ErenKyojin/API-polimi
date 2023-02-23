@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelli operazionali/Traduttore.md",
+                "file": "Modelli operazionali/funzione di transizione.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelli operazionali/Traduttore.md",
+                "file": "Modelli operazionali/funzione di transizione.md",
                 "mode": "preview",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modelli operazionali/Traduttore.md",
+                "file": "Modelli operazionali/funzione di transizione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modelli operazionali/Traduttore.md",
+                "file": "Modelli operazionali/funzione di transizione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modelli operazionali/Traduttore.md"
+                "file": "Modelli operazionali/funzione di transizione.md"
               }
             }
           }
@@ -218,11 +218,11 @@
   "active": "30366b5141ec18f2",
   "lastOpenFiles": [
     "Modelli operazionali/Automa a stati finiti.md",
+    "Modelli operazionali/Traduttore.md",
     "Linguaggio.md",
     "Modelli operazionali/Automa a pila.md",
     "push.md",
     "pop.md",
-    "Modelli operazionali/Traduttore.md",
     "stringa.md",
     "Modelli operazionali/funzione di transizione.md",
     "Modelli descrittivi.md",
